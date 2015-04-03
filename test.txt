@@ -1,1 +1,3 @@
 build new branch named TB
+#create and checkout
+git checkout -b TB == git branch TB , git checkout TB
